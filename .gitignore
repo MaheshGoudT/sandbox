@@ -1,5 +1,8 @@
 *.DS_Store
 .idea
+.ivy2
+.jupyter
+.local
 *.iml
 target
 tmp
